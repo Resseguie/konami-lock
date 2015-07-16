@@ -5,6 +5,6 @@
     "j5-songs": "0.0.7",
     "johnny-five": "^0.8.81",
     "keypress": "^0.2.1",
-    "nes-controller": "~0.1.0"
+    "nes-controller": "~0.2.1"
   }
 }
